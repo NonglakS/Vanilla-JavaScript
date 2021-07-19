@@ -41,7 +41,8 @@ h1 {
   cursor: pointer;
 }
 
-.controls .fa-play {
+.controls .fa-play,
+.fa-pause {
   color: darkviolet;
 }
 
@@ -52,6 +53,7 @@ h1 {
 .controls .timestamp {
   color: deeppink;
   font-weight: bold;
+  margin-left: 5px;
 }
 
 @media (max-width: 800px) {
@@ -59,4 +61,8 @@ h1 {
   .controls {
     width: 90%;
   }
+}
+
+video {
+  object-fit: fill;
 }
