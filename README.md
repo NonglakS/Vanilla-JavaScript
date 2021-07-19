@@ -6,5 +6,4 @@
 
 # Custom Video Player
 
- <p><img alt="custom-video-player" src="video-player/custom_video.png"></p>
-
+ <p><img alt="custom-video-player"  src="https://github.com/NonglakS/Vanilla-JavaScript/blob/master/video-player/custom_video.png"></p>
