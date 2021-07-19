@@ -1,9 +1,10 @@
-# Movie Seats Select Application
+# Vanilla JS Projects
 
-This application uses local storage to store selected data.
-
-Tech Stack
-* Front End: HTML, CSS, Vanilla JS
+# Movie Seats Booking Application
 
   <p><img alt="movie-seats-select-app" src="https://media.giphy.com/media/TYqTGL4DNw1ksLcmCA/giphy.gif"></p>
+
+# Custom Video Player
+
+ <p><img alt="custom-video-player" src="video-player/custom_video.png"></p>
 
